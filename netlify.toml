@@ -1,0 +1,4 @@
+[build]
+  base = "float-journal"
+  command = "npm install && npm run build"
+  publish = "dist"
